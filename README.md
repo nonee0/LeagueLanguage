@@ -28,8 +28,10 @@ Icon(if it doesn't apply automatically after installing)
 2. Open properties and click "Change Icon"
 3. Select the icon and done.
 
-Wrong route
-* By default, this script uses the default installation route for League of Legends, if you installed your game in a different disk or folder, you need to open "lol.ps1" and edit its route.
+The script doesn't work!
+* Wrong route: The script uses the default installation route for League of Legends, if you installed your game in a different disk or folder, you need to open "lol.ps1" and edit its route.
+1. Find where League of Legends is installed and copy the route
+2. Open "lol.ps1", in the first line replace the route in the double quote: $gamePath = "C:\Riot Games\League of Legends\"
 -----------------------------------------------------------------------------------------------
 
 FAQ:
