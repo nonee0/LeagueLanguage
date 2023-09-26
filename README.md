@@ -17,6 +17,12 @@ Other Languages:
 
 - Feel free to edit the script and choose your own language code, all you need to know is there!(lol.ps1 file)
 - Text with "#" symbol in it are instructions/languages.
+
+Icon(optional but recommended)
+* There is an icon in the folder for you to use on your shortcut.
+1. Right click "League of Legends.bat"(shortcut)
+2. Open properties and click "Change Icon"
+3. Select the icon and done.
 -----------------------------------------------------------------------------------------------
 
 OTHER INFO:
