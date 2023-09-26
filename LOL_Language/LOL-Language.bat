@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File "C:\LOL_Language\lol.ps1"
