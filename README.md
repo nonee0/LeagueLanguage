@@ -8,7 +8,7 @@ Default language: English, en_US
 
 1. Extract the .zip/.rar file
 2. Move the folder "LOL_Language" to your Local Disk(C:)
-3. Open the folder and all you have to do is move "League of Legends.bat" to your desktop and open it from there!
+3. Open the folder and all you have to do is move "League of Legends" shortcut to your desktop and open it from there!
 (Now you don't need the original League of Legends launcher, the new file opens it for you from the original League folder).
 
 Other Languages:
