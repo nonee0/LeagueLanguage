@@ -25,7 +25,7 @@ Icon
 * The "League of Legends" shortcut in the folder comes blank by default(no icon), however, you should see the icon apply on its own when you move the folder to Local Disk(C:)
 * If it stays blank there is an icon in the folder for you to use on your shortcut
 
-The script doesn't work!
+The script doesn't work?
 * Wrong route: The script uses the default installation route for League of Legends, if you installed your game in a different disk or folder, you need to open "lol.ps1" and edit its route.
 1. Find where League of Legends is installed and copy the route
 2. Open "lol.ps1", in the first line replace the route in the double quote: $gamePath = "C:\Riot Games\League of Legends\"
