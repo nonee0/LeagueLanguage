@@ -18,14 +18,21 @@ Other Languages:
 - Feel free to edit the script and choose your own language code, all you need to know is there!(lol.ps1 file)
 - Text with "#" symbol in it are instructions/languages.
 
-If the shortcut has no icon applied:
-* There is an icon in the folder for you to use on your shortcut.
+-------------
+OTHER INFO:
+
+Icon(if it doesn't apply automatically after installing)
+* The "League of Legends" shortcut in the folder comes blank by default(no icon), however, you should see the icon apply on its own when you move the folder to Local Disk(C:)
+* If it stays blank there is an icon in the folder for you to use on your shortcut
 1. Right click "League of Legends.bat"(shortcut)
 2. Open properties and click "Change Icon"
 3. Select the icon and done.
+
+Wrong route
+* By default, this script uses the default installation route for League of Legends, if you installed your game in a different disk or folder, you need to open "lol.ps1" and edit its route.
 -----------------------------------------------------------------------------------------------
 
-OTHER INFO:
+FAQ:
 -----------------------------------------------------------------------------------------------
 I JUST SAW A BLACK CONSOLE WHEN I RAN THE SCRIPT !!
 * This script uses PowerShell to automate the entire process, so don't freak out, that is normal, Windows PowerShell is doing all the work for you in the blink of an eye!
