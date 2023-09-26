@@ -1,4 +1,4 @@
-$gamePath = "C:\Riot Games\League of Legends\"
+$gamePath = "C:\Riot Games\League of Legends\" # <========== EDIT GAME ROUTE IF DIFFERENT
 $shortcutName = "League of Legends.lnk"
 
 $leagueClientPath = Join-Path $gamePath "LeagueClient.exe"
