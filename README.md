@@ -21,12 +21,9 @@ Other Languages:
 -------------
 OTHER INFO:
 
-Icon(if it doesn't apply automatically after installing)
+Icon
 * The "League of Legends" shortcut in the folder comes blank by default(no icon), however, you should see the icon apply on its own when you move the folder to Local Disk(C:)
 * If it stays blank there is an icon in the folder for you to use on your shortcut
-1. Right click "League of Legends.bat"(shortcut)
-2. Open properties and click "Change Icon"
-3. Select the icon and done.
 
 The script doesn't work!
 * Wrong route: The script uses the default installation route for League of Legends, if you installed your game in a different disk or folder, you need to open "lol.ps1" and edit its route.
