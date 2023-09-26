@@ -20,7 +20,7 @@ Other Languages:
 
 -------------
 OTHER INFO:
-
+-----------
 Icon
 * The "League of Legends" shortcut in the folder comes blank by default(no icon), however, you should see the icon apply on its own when you move the folder to Local Disk(C:)
 * If it stays blank there is an icon in the folder for you to use on your shortcut
