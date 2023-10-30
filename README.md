@@ -18,6 +18,8 @@ Other Languages:
 - Feel free to edit the script and choose your own language code, all you need to know is there!(lol.ps1 file)
 - Text with "#" symbol in it are instructions/languages.
 
+https://github.com/nonee0/LeagueLanguage/assets/143529925/2c10c631-dffc-4c3e-8ba2-9b513b819ca6
+
 -------------
 OTHER INFO:
 -----------
